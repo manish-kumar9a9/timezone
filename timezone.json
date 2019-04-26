@@ -1,0 +1,3290 @@
+[
+    {
+        "Time Zone": "Africa/Abidjan",
+        "Country Code": "CI",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Accra",
+        "Country Code": "GH",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Addis_Ababa",
+        "Country Code": "ET",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Algiers",
+        "Country Code": "DZ",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Asmara",
+        "Country Code": "ER",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Asmera",
+        "Country Code": "",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Bamako",
+        "Country Code": "ML",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Bangui",
+        "Country Code": "CF",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Banjul",
+        "Country Code": "GM",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Bissau",
+        "Country Code": "GW",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Blantyre",
+        "Country Code": "MW",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Brazzaville",
+        "Country Code": "CG",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Bujumbura",
+        "Country Code": "BI",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Cairo",
+        "Country Code": "EG",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Casablanca",
+        "Country Code": "MA",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Ceuta",
+        "Country Code": "ES",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Conakry",
+        "Country Code": "GN",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Dakar",
+        "Country Code": "SN",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Dar_es_Salaam",
+        "Country Code": "TZ",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Djibouti",
+        "Country Code": "DJ",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Douala",
+        "Country Code": "CM",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/El_Aaiun",
+        "Country Code": "EH",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Freetown",
+        "Country Code": "SL",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Gaborone",
+        "Country Code": "BW",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Harare",
+        "Country Code": "ZW",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Johannesburg",
+        "Country Code": "ZA",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Juba",
+        "Country Code": "SS",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Kampala",
+        "Country Code": "UG",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Khartoum",
+        "Country Code": "SD",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Kigali",
+        "Country Code": "RW",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Kinshasa",
+        "Country Code": "CD",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Lagos",
+        "Country Code": "NG",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Libreville",
+        "Country Code": "GA",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Lome",
+        "Country Code": "TG",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Luanda",
+        "Country Code": "AO",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Lubumbashi",
+        "Country Code": "CD",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Lusaka",
+        "Country Code": "ZM",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Malabo",
+        "Country Code": "GQ",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Maputo",
+        "Country Code": "MZ",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Maseru",
+        "Country Code": "LS",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Mbabane",
+        "Country Code": "SZ",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Mogadishu",
+        "Country Code": "SO",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Monrovia",
+        "Country Code": "LR",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Nairobi",
+        "Country Code": "KE",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Africa/Ndjamena",
+        "Country Code": "TD",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Niamey",
+        "Country Code": "NE",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Nouakchott",
+        "Country Code": "MR",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Ouagadougou",
+        "Country Code": "BF",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Porto-Novo",
+        "Country Code": "BJ",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Sao_Tome",
+        "Country Code": "ST",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Timbuktu",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Africa/Tripoli",
+        "Country Code": "LY",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Africa/Tunis",
+        "Country Code": "TN",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Africa/Windhoek",
+        "Country Code": "NA",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "AKST9AKDT",
+        "Country Code": "",
+        "Offset from UTC": "-09:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "America/Adak",
+        "Country Code": "US",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-09:00"
+    },
+    {
+        "Time Zone": "America/Anchorage",
+        "Country Code": "US",
+        "Offset from UTC": "-09:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "America/Anguilla",
+        "Country Code": "AI",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Antigua",
+        "Country Code": "AG",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Araguaina",
+        "Country Code": "BR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Buenos_Aires",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Catamarca",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/ComodRivadavia",
+        "Country Code": "",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Cordoba",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Jujuy",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/La_Rioja",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Mendoza",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Rio_Gallegos",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Salta",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/San_Juan",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/San_Luis",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Tucuman",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Argentina/Ushuaia",
+        "Country Code": "AR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Aruba",
+        "Country Code": "AW",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Asuncion",
+        "Country Code": "PY",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Atikokan",
+        "Country Code": "CA",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Atka",
+        "Country Code": "",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-09:00"
+    },
+    {
+        "Time Zone": "America/Bahia",
+        "Country Code": "BR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Bahia_Banderas",
+        "Country Code": "MX",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Barbados",
+        "Country Code": "BB",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Belem",
+        "Country Code": "BR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Belize",
+        "Country Code": "BZ",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Blanc-Sablon",
+        "Country Code": "CA",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Boa_Vista",
+        "Country Code": "BR",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Bogota",
+        "Country Code": "CO",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Boise",
+        "Country Code": "US",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Buenos_Aires",
+        "Country Code": "",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Cambridge_Bay",
+        "Country Code": "CA",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Campo_Grande",
+        "Country Code": "BR",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Cancun",
+        "Country Code": "MX",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Caracas",
+        "Country Code": "VE",
+        "Offset from UTC": "-04:30",
+        "DST Offset from UTC": "-04:30"
+    },
+    {
+        "Time Zone": "America/Catamarca",
+        "Country Code": "",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Cayenne",
+        "Country Code": "GF",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Cayman",
+        "Country Code": "KY",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Chicago",
+        "Country Code": "US",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Chihuahua",
+        "Country Code": "MX",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Coral_Harbour",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Cordoba",
+        "Country Code": "",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Costa_Rica",
+        "Country Code": "CR",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Creston",
+        "Country Code": "CA",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Cuiaba",
+        "Country Code": "BR",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Curacao",
+        "Country Code": "CW",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Danmarkshavn",
+        "Country Code": "GL",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "America/Dawson",
+        "Country Code": "CA",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Dawson_Creek",
+        "Country Code": "CA",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Denver",
+        "Country Code": "US",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Detroit",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Dominica",
+        "Country Code": "DM",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Edmonton",
+        "Country Code": "CA",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Eirunepe",
+        "Country Code": "BR",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/El_Salvador",
+        "Country Code": "SV",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Ensenada",
+        "Country Code": "",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Fort_Wayne",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Fortaleza",
+        "Country Code": "BR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Glace_Bay",
+        "Country Code": "CA",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Godthab",
+        "Country Code": "GL",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-02:00"
+    },
+    {
+        "Time Zone": "America/Goose_Bay",
+        "Country Code": "CA",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Grand_Turk",
+        "Country Code": "TC",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Grenada",
+        "Country Code": "GD",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Guadeloupe",
+        "Country Code": "GP",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Guatemala",
+        "Country Code": "GT",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Guayaquil",
+        "Country Code": "EC",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Guyana",
+        "Country Code": "GY",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Halifax",
+        "Country Code": "CA",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Havana",
+        "Country Code": "CU",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Hermosillo",
+        "Country Code": "MX",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Indiana/Indianapolis",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Indiana/Knox",
+        "Country Code": "US",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Indiana/Marengo",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Indiana/Petersburg",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Indiana/Tell_City",
+        "Country Code": "US",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Indiana/Vevay",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Indiana/Vincennes",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Indiana/Winamac",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Indianapolis",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Inuvik",
+        "Country Code": "CA",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Iqaluit",
+        "Country Code": "CA",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Jamaica",
+        "Country Code": "JM",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Jujuy",
+        "Country Code": "",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Juneau",
+        "Country Code": "US",
+        "Offset from UTC": "-09:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "America/Kentucky/Louisville",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Kentucky/Monticello",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Knox_IN",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Kralendijk",
+        "Country Code": "BQ",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/La_Paz",
+        "Country Code": "BO",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Lima",
+        "Country Code": "PE",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Los_Angeles",
+        "Country Code": "US",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Louisville",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Lower_Princes",
+        "Country Code": "SX",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Maceio",
+        "Country Code": "BR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Managua",
+        "Country Code": "NI",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Manaus",
+        "Country Code": "BR",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Marigot",
+        "Country Code": "MF",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Martinique",
+        "Country Code": "MQ",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Matamoros",
+        "Country Code": "MX",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Mazatlan",
+        "Country Code": "MX",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Mendoza",
+        "Country Code": "",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Menominee",
+        "Country Code": "US",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Merida",
+        "Country Code": "MX",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Metlakatla",
+        "Country Code": "US",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "America/Mexico_City",
+        "Country Code": "MX",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Miquelon",
+        "Country Code": "PM",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-02:00"
+    },
+    {
+        "Time Zone": "America/Moncton",
+        "Country Code": "CA",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Monterrey",
+        "Country Code": "MX",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Montevideo",
+        "Country Code": "UY",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-02:00"
+    },
+    {
+        "Time Zone": "America/Montreal",
+        "Country Code": "CA",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Montserrat",
+        "Country Code": "MS",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Nassau",
+        "Country Code": "BS",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/New_York",
+        "Country Code": "US",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Nipigon",
+        "Country Code": "CA",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Nome",
+        "Country Code": "US",
+        "Offset from UTC": "-09:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "America/Noronha",
+        "Country Code": "BR",
+        "Offset from UTC": "-02:00",
+        "DST Offset from UTC": "-02:00"
+    },
+    {
+        "Time Zone": "America/North_Dakota/Beulah",
+        "Country Code": "US",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/North_Dakota/Center",
+        "Country Code": "US",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/North_Dakota/New_Salem",
+        "Country Code": "US",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Ojinaga",
+        "Country Code": "MX",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Panama",
+        "Country Code": "PA",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Pangnirtung",
+        "Country Code": "CA",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Paramaribo",
+        "Country Code": "SR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Phoenix",
+        "Country Code": "US",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Port_of_Spain",
+        "Country Code": "TT",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Port-au-Prince",
+        "Country Code": "HT",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Porto_Acre",
+        "Country Code": "",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Porto_Velho",
+        "Country Code": "BR",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Puerto_Rico",
+        "Country Code": "PR",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Rainy_River",
+        "Country Code": "CA",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Rankin_Inlet",
+        "Country Code": "CA",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Recife",
+        "Country Code": "BR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Regina",
+        "Country Code": "CA",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Resolute",
+        "Country Code": "CA",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Rio_Branco",
+        "Country Code": "BR",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Rosario",
+        "Country Code": "",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Santa_Isabel",
+        "Country Code": "MX",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Santarem",
+        "Country Code": "BR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Santiago",
+        "Country Code": "CL",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Santo_Domingo",
+        "Country Code": "DO",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Sao_Paulo",
+        "Country Code": "BR",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-02:00"
+    },
+    {
+        "Time Zone": "America/Scoresbysund",
+        "Country Code": "GL",
+        "Offset from UTC": "-01:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "America/Shiprock",
+        "Country Code": "US",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Sitka",
+        "Country Code": "US",
+        "Offset from UTC": "-09:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "America/St_Barthelemy",
+        "Country Code": "BL",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/St_Johns",
+        "Country Code": "CA",
+        "Offset from UTC": "-03:30",
+        "DST Offset from UTC": "-02:30"
+    },
+    {
+        "Time Zone": "America/St_Kitts",
+        "Country Code": "KN",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/St_Lucia",
+        "Country Code": "LC",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/St_Thomas",
+        "Country Code": "VI",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/St_Vincent",
+        "Country Code": "VC",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Swift_Current",
+        "Country Code": "CA",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Tegucigalpa",
+        "Country Code": "HN",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "America/Thule",
+        "Country Code": "GL",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "America/Thunder_Bay",
+        "Country Code": "CA",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Tijuana",
+        "Country Code": "MX",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Toronto",
+        "Country Code": "CA",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Tortola",
+        "Country Code": "VG",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Vancouver",
+        "Country Code": "CA",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Virgin",
+        "Country Code": "",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "America/Whitehorse",
+        "Country Code": "CA",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "America/Winnipeg",
+        "Country Code": "CA",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "America/Yakutat",
+        "Country Code": "US",
+        "Offset from UTC": "-09:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "America/Yellowknife",
+        "Country Code": "CA",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "Antarctica/Casey",
+        "Country Code": "AQ",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Antarctica/Davis",
+        "Country Code": "AQ",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Antarctica/DumontDUrville",
+        "Country Code": "AQ",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Antarctica/Macquarie",
+        "Country Code": "AQ",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Antarctica/Mawson",
+        "Country Code": "AQ",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Antarctica/McMurdo",
+        "Country Code": "AQ",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+13:00"
+    },
+    {
+        "Time Zone": "Antarctica/Palmer",
+        "Country Code": "AQ",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "Antarctica/Rothera",
+        "Country Code": "AQ",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "Antarctica/South_Pole",
+        "Country Code": "AQ",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+13:00"
+    },
+    {
+        "Time Zone": "Antarctica/Syowa",
+        "Country Code": "AQ",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Antarctica/Vostok",
+        "Country Code": "AQ",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Arctic/Longyearbyen",
+        "Country Code": "SJ",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Asia/Aden",
+        "Country Code": "YE",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Almaty",
+        "Country Code": "KZ",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Asia/Amman",
+        "Country Code": "JO",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Anadyr",
+        "Country Code": "RU",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Asia/Aqtau",
+        "Country Code": "KZ",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Aqtobe",
+        "Country Code": "KZ",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Ashgabat",
+        "Country Code": "TM",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Ashkhabad",
+        "Country Code": "",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Baghdad",
+        "Country Code": "IQ",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Bahrain",
+        "Country Code": "BH",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Baku",
+        "Country Code": "AZ",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Bangkok",
+        "Country Code": "TH",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Beirut",
+        "Country Code": "LB",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Bishkek",
+        "Country Code": "KG",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Asia/Brunei",
+        "Country Code": "BN",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Calcutta",
+        "Country Code": "",
+        "Offset from UTC": "+05:30",
+        "DST Offset from UTC": "+05:30"
+    },
+    {
+        "Time Zone": "Asia/Choibalsan",
+        "Country Code": "MN",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Chongqing",
+        "Country Code": "CN",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Chungking",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Colombo",
+        "Country Code": "LK",
+        "Offset from UTC": "+05:30",
+        "DST Offset from UTC": "+05:30"
+    },
+    {
+        "Time Zone": "Asia/Dacca",
+        "Country Code": "",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Asia/Damascus",
+        "Country Code": "SY",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Dhaka",
+        "Country Code": "BD",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Asia/Dili",
+        "Country Code": "TL",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Asia/Dubai",
+        "Country Code": "AE",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Asia/Dushanbe",
+        "Country Code": "TJ",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Gaza",
+        "Country Code": "PS",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Harbin",
+        "Country Code": "CN",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Hebron",
+        "Country Code": "PS",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Ho_Chi_Minh",
+        "Country Code": "VN",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Hong_Kong",
+        "Country Code": "HK",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Hovd",
+        "Country Code": "MN",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Irkutsk",
+        "Country Code": "RU",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Asia/Istanbul",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Jakarta",
+        "Country Code": "ID",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Jayapura",
+        "Country Code": "ID",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Asia/Jerusalem",
+        "Country Code": "IL",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Kabul",
+        "Country Code": "AF",
+        "Offset from UTC": "+04:30",
+        "DST Offset from UTC": "+04:30"
+    },
+    {
+        "Time Zone": "Asia/Kamchatka",
+        "Country Code": "RU",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Asia/Karachi",
+        "Country Code": "PK",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Kashgar",
+        "Country Code": "CN",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Kathmandu",
+        "Country Code": "NP",
+        "Offset from UTC": "+05:45",
+        "DST Offset from UTC": "+05:45"
+    },
+    {
+        "Time Zone": "Asia/Katmandu",
+        "Country Code": "",
+        "Offset from UTC": "+05:45",
+        "DST Offset from UTC": "+05:45"
+    },
+    {
+        "Time Zone": "Asia/Kolkata",
+        "Country Code": "IN",
+        "Offset from UTC": "+05:30",
+        "DST Offset from UTC": "+05:30"
+    },
+    {
+        "Time Zone": "Asia/Krasnoyarsk",
+        "Country Code": "RU",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Kuala_Lumpur",
+        "Country Code": "MY",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Kuching",
+        "Country Code": "MY",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Kuwait",
+        "Country Code": "KW",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Macao",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Macau",
+        "Country Code": "MO",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Magadan",
+        "Country Code": "RU",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Asia/Makassar",
+        "Country Code": "ID",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Manila",
+        "Country Code": "PH",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Muscat",
+        "Country Code": "OM",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Asia/Nicosia",
+        "Country Code": "CY",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Novokuznetsk",
+        "Country Code": "RU",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Novosibirsk",
+        "Country Code": "RU",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Omsk",
+        "Country Code": "RU",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Oral",
+        "Country Code": "KZ",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Phnom_Penh",
+        "Country Code": "KH",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Pontianak",
+        "Country Code": "ID",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Pyongyang",
+        "Country Code": "KP",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Asia/Qatar",
+        "Country Code": "QA",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Qyzylorda",
+        "Country Code": "KZ",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Asia/Rangoon",
+        "Country Code": "MM",
+        "Offset from UTC": "+06:30",
+        "DST Offset from UTC": "+06:30"
+    },
+    {
+        "Time Zone": "Asia/Riyadh",
+        "Country Code": "SA",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Saigon",
+        "Country Code": "",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Sakhalin",
+        "Country Code": "RU",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Asia/Samarkand",
+        "Country Code": "UZ",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Seoul",
+        "Country Code": "KR",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Asia/Shanghai",
+        "Country Code": "CN",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Singapore",
+        "Country Code": "SG",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Taipei",
+        "Country Code": "TW",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Tashkent",
+        "Country Code": "UZ",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Asia/Tbilisi",
+        "Country Code": "GE",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Asia/Tehran",
+        "Country Code": "IR",
+        "Offset from UTC": "+03:30",
+        "DST Offset from UTC": "+04:30"
+    },
+    {
+        "Time Zone": "Asia/Tel_Aviv",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Asia/Thimbu",
+        "Country Code": "",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Asia/Thimphu",
+        "Country Code": "BT",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Asia/Tokyo",
+        "Country Code": "JP",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Asia/Ujung_Pandang",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Ulaanbaatar",
+        "Country Code": "MN",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Ulan_Bator",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Urumqi",
+        "Country Code": "CN",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Asia/Vientiane",
+        "Country Code": "LA",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Asia/Vladivostok",
+        "Country Code": "RU",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Asia/Yakutsk",
+        "Country Code": "RU",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Asia/Yekaterinburg",
+        "Country Code": "RU",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Asia/Yerevan",
+        "Country Code": "AM",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Atlantic/Azores",
+        "Country Code": "PT",
+        "Offset from UTC": "-01:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Atlantic/Bermuda",
+        "Country Code": "BM",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "Atlantic/Canary",
+        "Country Code": "ES",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Atlantic/Cape_Verde",
+        "Country Code": "CV",
+        "Offset from UTC": "-01:00",
+        "DST Offset from UTC": "-01:00"
+    },
+    {
+        "Time Zone": "Atlantic/Faeroe",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Atlantic/Faroe",
+        "Country Code": "FO",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Atlantic/Jan_Mayen",
+        "Country Code": "",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Atlantic/Madeira",
+        "Country Code": "PT",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Atlantic/Reykjavik",
+        "Country Code": "IS",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Atlantic/South_Georgia",
+        "Country Code": "GS",
+        "Offset from UTC": "-02:00",
+        "DST Offset from UTC": "-02:00"
+    },
+    {
+        "Time Zone": "Atlantic/St_Helena",
+        "Country Code": "SH",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Atlantic/Stanley",
+        "Country Code": "FK",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "Australia/ACT",
+        "Country Code": "",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/Adelaide",
+        "Country Code": "AU",
+        "Offset from UTC": "+09:30",
+        "DST Offset from UTC": "+10:30"
+    },
+    {
+        "Time Zone": "Australia/Brisbane",
+        "Country Code": "AU",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Australia/Broken_Hill",
+        "Country Code": "AU",
+        "Offset from UTC": "+09:30",
+        "DST Offset from UTC": "+10:30"
+    },
+    {
+        "Time Zone": "Australia/Canberra",
+        "Country Code": "",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/Currie",
+        "Country Code": "AU",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/Darwin",
+        "Country Code": "AU",
+        "Offset from UTC": "+09:30",
+        "DST Offset from UTC": "+09:30"
+    },
+    {
+        "Time Zone": "Australia/Eucla",
+        "Country Code": "AU",
+        "Offset from UTC": "+08:45",
+        "DST Offset from UTC": "+08:45"
+    },
+    {
+        "Time Zone": "Australia/Hobart",
+        "Country Code": "AU",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/LHI",
+        "Country Code": "",
+        "Offset from UTC": "+10:30",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/Lindeman",
+        "Country Code": "AU",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Australia/Lord_Howe",
+        "Country Code": "AU",
+        "Offset from UTC": "+10:30",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/Melbourne",
+        "Country Code": "AU",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/North",
+        "Country Code": "",
+        "Offset from UTC": "+09:30",
+        "DST Offset from UTC": "+09:30"
+    },
+    {
+        "Time Zone": "Australia/NSW",
+        "Country Code": "",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/Perth",
+        "Country Code": "AU",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Australia/Queensland",
+        "Country Code": "",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Australia/South",
+        "Country Code": "",
+        "Offset from UTC": "+09:30",
+        "DST Offset from UTC": "+10:30"
+    },
+    {
+        "Time Zone": "Australia/Sydney",
+        "Country Code": "AU",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/Tasmania",
+        "Country Code": "",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/Victoria",
+        "Country Code": "",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Australia/West",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Australia/Yancowinna",
+        "Country Code": "",
+        "Offset from UTC": "+09:30",
+        "DST Offset from UTC": "+10:30"
+    },
+    {
+        "Time Zone": "Brazil/Acre",
+        "Country Code": "",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "Brazil/DeNoronha",
+        "Country Code": "",
+        "Offset from UTC": "-02:00",
+        "DST Offset from UTC": "-02:00"
+    },
+    {
+        "Time Zone": "Brazil/East",
+        "Country Code": "",
+        "Offset from UTC": "-03:00",
+        "DST Offset from UTC": "-02:00"
+    },
+    {
+        "Time Zone": "Brazil/West",
+        "Country Code": "",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "Canada/Atlantic",
+        "Country Code": "",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "Canada/Central",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "Canada/Eastern",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "Canada/East-Saskatchewan",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "Canada/Mountain",
+        "Country Code": "",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "Canada/Newfoundland",
+        "Country Code": "",
+        "Offset from UTC": "-03:30",
+        "DST Offset from UTC": "-02:30"
+    },
+    {
+        "Time Zone": "Canada/Pacific",
+        "Country Code": "",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "Canada/Saskatchewan",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "Canada/Yukon",
+        "Country Code": "",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "CET",
+        "Country Code": "",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Chile/Continental",
+        "Country Code": "",
+        "Offset from UTC": "-04:00",
+        "DST Offset from UTC": "-03:00"
+    },
+    {
+        "Time Zone": "Chile/EasterIsland",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "CST6CDT",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "Cuba",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "EET",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Egypt",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Eire",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "EST",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "EST5EDT",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "Etc./GMT",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Etc./GMT+0",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Etc./UCT",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Etc./Universal",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Etc./UTC",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Etc./Zulu",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Europe/Amsterdam",
+        "Country Code": "NL",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Andorra",
+        "Country Code": "AD",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Athens",
+        "Country Code": "GR",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Belfast",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Europe/Belgrade",
+        "Country Code": "RS",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Berlin",
+        "Country Code": "DE",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Bratislava",
+        "Country Code": "SK",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Brussels",
+        "Country Code": "BE",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Bucharest",
+        "Country Code": "RO",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Budapest",
+        "Country Code": "HU",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Chisinau",
+        "Country Code": "MD",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Copenhagen",
+        "Country Code": "DK",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Dublin",
+        "Country Code": "IE",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Europe/Gibraltar",
+        "Country Code": "GI",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Guernsey",
+        "Country Code": "GG",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Europe/Helsinki",
+        "Country Code": "FI",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Isle_of_Man",
+        "Country Code": "IM",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Europe/Istanbul",
+        "Country Code": "TR",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Jersey",
+        "Country Code": "JE",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Europe/Kaliningrad",
+        "Country Code": "RU",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Kiev",
+        "Country Code": "UA",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Lisbon",
+        "Country Code": "PT",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Europe/Ljubljana",
+        "Country Code": "SI",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/London",
+        "Country Code": "GB",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "Europe/Luxembourg",
+        "Country Code": "LU",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Madrid",
+        "Country Code": "ES",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Malta",
+        "Country Code": "MT",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Mariehamn",
+        "Country Code": "AX",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Minsk",
+        "Country Code": "BY",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Monaco",
+        "Country Code": "MC",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Moscow",
+        "Country Code": "RU",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Europe/Nicosia",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Oslo",
+        "Country Code": "NO",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Paris",
+        "Country Code": "FR",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Podgorica",
+        "Country Code": "ME",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Prague",
+        "Country Code": "CZ",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Riga",
+        "Country Code": "LV",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Rome",
+        "Country Code": "IT",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Samara",
+        "Country Code": "RU",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Europe/San_Marino",
+        "Country Code": "SM",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Sarajevo",
+        "Country Code": "BA",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Simferopol",
+        "Country Code": "UA",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Skopje",
+        "Country Code": "MK",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Sofia",
+        "Country Code": "BG",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Stockholm",
+        "Country Code": "SE",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Tallinn",
+        "Country Code": "EE",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Tirane",
+        "Country Code": "AL",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Tiraspol",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Uzhgorod",
+        "Country Code": "UA",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Vaduz",
+        "Country Code": "LI",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Vatican",
+        "Country Code": "VA",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Vienna",
+        "Country Code": "AT",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Vilnius",
+        "Country Code": "LT",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Volgograd",
+        "Country Code": "RU",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Europe/Warsaw",
+        "Country Code": "PL",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Zagreb",
+        "Country Code": "HR",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Europe/Zaporozhye",
+        "Country Code": "UA",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Europe/Zurich",
+        "Country Code": "CH",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "GB",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "GB-Eire",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "GMT",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "GMT+0",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "GMT0",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "GMT-0",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Greenwich",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Hong Kong",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "HST",
+        "Country Code": "",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-10:00"
+    },
+    {
+        "Time Zone": "Iceland",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Indian/Antananarivo",
+        "Country Code": "MG",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Indian/Chagos",
+        "Country Code": "IO",
+        "Offset from UTC": "+06:00",
+        "DST Offset from UTC": "+06:00"
+    },
+    {
+        "Time Zone": "Indian/Christmas",
+        "Country Code": "CX",
+        "Offset from UTC": "+07:00",
+        "DST Offset from UTC": "+07:00"
+    },
+    {
+        "Time Zone": "Indian/Cocos",
+        "Country Code": "CC",
+        "Offset from UTC": "+06:30",
+        "DST Offset from UTC": "+06:30"
+    },
+    {
+        "Time Zone": "Indian/Comoro",
+        "Country Code": "KM",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Indian/Kerguelen",
+        "Country Code": "TF",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Indian/Mahe",
+        "Country Code": "SC",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Indian/Maldives",
+        "Country Code": "MV",
+        "Offset from UTC": "+05:00",
+        "DST Offset from UTC": "+05:00"
+    },
+    {
+        "Time Zone": "Indian/Mauritius",
+        "Country Code": "MU",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Indian/Mayotte",
+        "Country Code": "YT",
+        "Offset from UTC": "+03:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Indian/Reunion",
+        "Country Code": "RE",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Iran",
+        "Country Code": "",
+        "Offset from UTC": "+03:30",
+        "DST Offset from UTC": "+04:30"
+    },
+    {
+        "Time Zone": "Israel",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "Jamaica",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "Japan",
+        "Country Code": "",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "JST-9",
+        "Country Code": "",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Kwajalein",
+        "Country Code": "",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Libya",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "MET",
+        "Country Code": "",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Mexico/BajaNorte",
+        "Country Code": "",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "Mexico/BajaSur",
+        "Country Code": "",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "Mexico/General",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "MST",
+        "Country Code": "",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "MST7MDT",
+        "Country Code": "",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "Navajo",
+        "Country Code": "",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "NZ",
+        "Country Code": "",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+13:00"
+    },
+    {
+        "Time Zone": "NZ-CHAT",
+        "Country Code": "",
+        "Offset from UTC": "+12:45",
+        "DST Offset from UTC": "+13:45"
+    },
+    {
+        "Time Zone": "Pacific/Apia",
+        "Country Code": "WS",
+        "Offset from UTC": "+13:00",
+        "DST Offset from UTC": "+14:00"
+    },
+    {
+        "Time Zone": "Pacific/Auckland",
+        "Country Code": "NZ",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+13:00"
+    },
+    {
+        "Time Zone": "Pacific/Chatham",
+        "Country Code": "NZ",
+        "Offset from UTC": "+12:45",
+        "DST Offset from UTC": "+13:45"
+    },
+    {
+        "Time Zone": "Pacific/Chuuk",
+        "Country Code": "FM",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Pacific/Easter",
+        "Country Code": "CL",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "Pacific/Efate",
+        "Country Code": "VU",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Pacific/Enderbury",
+        "Country Code": "KI",
+        "Offset from UTC": "+13:00",
+        "DST Offset from UTC": "+13:00"
+    },
+    {
+        "Time Zone": "Pacific/Fakaofo",
+        "Country Code": "TK",
+        "Offset from UTC": "+13:00",
+        "DST Offset from UTC": "+13:00"
+    },
+    {
+        "Time Zone": "Pacific/Fiji",
+        "Country Code": "FJ",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+13:00"
+    },
+    {
+        "Time Zone": "Pacific/Funafuti",
+        "Country Code": "TV",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Pacific/Galapagos",
+        "Country Code": "EC",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "Pacific/Gambier",
+        "Country Code": "PF",
+        "Offset from UTC": "-09:00",
+        "DST Offset from UTC": "-09:00"
+    },
+    {
+        "Time Zone": "Pacific/Guadalcanal",
+        "Country Code": "SB",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Pacific/Guam",
+        "Country Code": "GU",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Pacific/Honolulu",
+        "Country Code": "US",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-10:00"
+    },
+    {
+        "Time Zone": "Pacific/Johnston",
+        "Country Code": "UM",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-10:00"
+    },
+    {
+        "Time Zone": "Pacific/Kiritimati",
+        "Country Code": "KI",
+        "Offset from UTC": "+14:00",
+        "DST Offset from UTC": "+14:00"
+    },
+    {
+        "Time Zone": "Pacific/Kosrae",
+        "Country Code": "FM",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Pacific/Kwajalein",
+        "Country Code": "MH",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Pacific/Majuro",
+        "Country Code": "MH",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Pacific/Marquesas",
+        "Country Code": "PF",
+        "Offset from UTC": "-09:30",
+        "DST Offset from UTC": "-09:30"
+    },
+    {
+        "Time Zone": "Pacific/Midway",
+        "Country Code": "UM",
+        "Offset from UTC": "-11:00",
+        "DST Offset from UTC": "-11:00"
+    },
+    {
+        "Time Zone": "Pacific/Nauru",
+        "Country Code": "NR",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Pacific/Niue",
+        "Country Code": "NU",
+        "Offset from UTC": "-11:00",
+        "DST Offset from UTC": "-11:00"
+    },
+    {
+        "Time Zone": "Pacific/Norfolk",
+        "Country Code": "NF",
+        "Offset from UTC": "+11:30",
+        "DST Offset from UTC": "+11:30"
+    },
+    {
+        "Time Zone": "Pacific/Noumea",
+        "Country Code": "NC",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Pacific/Pago_Pago",
+        "Country Code": "AS",
+        "Offset from UTC": "-11:00",
+        "DST Offset from UTC": "-11:00"
+    },
+    {
+        "Time Zone": "Pacific/Palau",
+        "Country Code": "PW",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Pacific/Pitcairn",
+        "Country Code": "PN",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "Pacific/Pohnpei",
+        "Country Code": "FM",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Pacific/Ponape",
+        "Country Code": "",
+        "Offset from UTC": "+11:00",
+        "DST Offset from UTC": "+11:00"
+    },
+    {
+        "Time Zone": "Pacific/Port_Moresby",
+        "Country Code": "PG",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Pacific/Rarotonga",
+        "Country Code": "CK",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-10:00"
+    },
+    {
+        "Time Zone": "Pacific/Saipan",
+        "Country Code": "MP",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Pacific/Samoa",
+        "Country Code": "",
+        "Offset from UTC": "-11:00",
+        "DST Offset from UTC": "-11:00"
+    },
+    {
+        "Time Zone": "Pacific/Tahiti",
+        "Country Code": "PF",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-10:00"
+    },
+    {
+        "Time Zone": "Pacific/Tarawa",
+        "Country Code": "KI",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Pacific/Tongatapu",
+        "Country Code": "TO",
+        "Offset from UTC": "+13:00",
+        "DST Offset from UTC": "+13:00"
+    },
+    {
+        "Time Zone": "Pacific/Truk",
+        "Country Code": "",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Pacific/Wake",
+        "Country Code": "UM",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Pacific/Wallis",
+        "Country Code": "WF",
+        "Offset from UTC": "+12:00",
+        "DST Offset from UTC": "+12:00"
+    },
+    {
+        "Time Zone": "Pacific/Yap",
+        "Country Code": "",
+        "Offset from UTC": "+10:00",
+        "DST Offset from UTC": "+10:00"
+    },
+    {
+        "Time Zone": "Poland",
+        "Country Code": "",
+        "Offset from UTC": "+01:00",
+        "DST Offset from UTC": "+02:00"
+    },
+    {
+        "Time Zone": "Portugal",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "PRC",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "PST8PDT",
+        "Country Code": "",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "ROC",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "ROK",
+        "Country Code": "",
+        "Offset from UTC": "+09:00",
+        "DST Offset from UTC": "+09:00"
+    },
+    {
+        "Time Zone": "Singapore",
+        "Country Code": "",
+        "Offset from UTC": "+08:00",
+        "DST Offset from UTC": "+08:00"
+    },
+    {
+        "Time Zone": "Turkey",
+        "Country Code": "",
+        "Offset from UTC": "+02:00",
+        "DST Offset from UTC": "+03:00"
+    },
+    {
+        "Time Zone": "UCT",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "Universal",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "US/Alaska",
+        "Country Code": "",
+        "Offset from UTC": "-09:00",
+        "DST Offset from UTC": "-08:00"
+    },
+    {
+        "Time Zone": "US/Aleutian",
+        "Country Code": "",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-09:00"
+    },
+    {
+        "Time Zone": "US/Arizona",
+        "Country Code": "",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "US/Central",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "US/Eastern",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "US/East-Indiana",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "US/Hawaii",
+        "Country Code": "",
+        "Offset from UTC": "-10:00",
+        "DST Offset from UTC": "-10:00"
+    },
+    {
+        "Time Zone": "US/Indiana-Starke",
+        "Country Code": "",
+        "Offset from UTC": "-06:00",
+        "DST Offset from UTC": "-05:00"
+    },
+    {
+        "Time Zone": "US/Michigan",
+        "Country Code": "",
+        "Offset from UTC": "-05:00",
+        "DST Offset from UTC": "-04:00"
+    },
+    {
+        "Time Zone": "US/Mountain",
+        "Country Code": "",
+        "Offset from UTC": "-07:00",
+        "DST Offset from UTC": "-06:00"
+    },
+    {
+        "Time Zone": "US/Pacific",
+        "Country Code": "",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "US/Pacific-New",
+        "Country Code": "",
+        "Offset from UTC": "-08:00",
+        "DST Offset from UTC": "-07:00"
+    },
+    {
+        "Time Zone": "US/Samoa",
+        "Country Code": "",
+        "Offset from UTC": "-11:00",
+        "DST Offset from UTC": "-11:00"
+    },
+    {
+        "Time Zone": "UTC",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    },
+    {
+        "Time Zone": "WET",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+01:00"
+    },
+    {
+        "Time Zone": "W-SU",
+        "Country Code": "",
+        "Offset from UTC": "+04:00",
+        "DST Offset from UTC": "+04:00"
+    },
+    {
+        "Time Zone": "Zulu",
+        "Country Code": "",
+        "Offset from UTC": "+00:00",
+        "DST Offset from UTC": "+00:00"
+    }
+]
